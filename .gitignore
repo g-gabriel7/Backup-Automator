@@ -15,7 +15,7 @@ var/
 wheels/
 *.egg-info/
 *.log
-historico_backup.log
+backup_history.log
 .env
 *.key
 *.pem
